@@ -26,11 +26,11 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center">
+<h4 align="center">
 	🚧  Boilerplate 🚀 Under construction...  🚧
 </h4>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
@@ -50,8 +50,8 @@ Html Boilerplate using Vite JS
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Boogtstrap 5;\
-:heavy_check_mark: Fontawesome 5;\
+:heavy_check_mark: Boogtstrap 5
+:heavy_check_mark: Fontawesome 5
 
 ## :rocket: Technologies ##
 
