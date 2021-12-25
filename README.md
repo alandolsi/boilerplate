@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/app.gif" alt="Boilerplate" />
+  <img src="./.github/Landolsi_Webdesign_Logo_klein.png" alt="Boilerplate" />
 
   &#xa0;
 
