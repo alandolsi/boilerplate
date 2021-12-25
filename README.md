@@ -1,4 +1,4 @@
-<div align="center" id="top"> 
+<div align="center" id="top">
   <img src="./.github/app.gif" alt="Boilerplate" />
 
   &#xa0;
@@ -26,14 +26,14 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  Boilerplate 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -46,23 +46,20 @@
 
 ## :dart: About ##
 
-Describe your project
+Html Boilerplate using Vite JS
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Boogtstrap 5;\
+:heavy_check_mark: Fontawesome 5;\
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/)
+- [Fontawesome 5](https://fontawesome.com/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
